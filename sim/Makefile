@@ -1,5 +1,5 @@
 ###################################################################
-# This file created by Huy Nguyen
+# This file was created by Phuc Hung based on a template from Huy Nguyen
 # Updated date: 6/30/2019
 # Example run string: make TESTNAME={name_of_testcase} {optional} 
 #                     make TESTNAME=counter test all
